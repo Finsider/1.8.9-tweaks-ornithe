@@ -1,0 +1,3 @@
+- fullbright with light updates disabled
+- remove chat background
+- remove player scores (the red texts on the right) on scoreboard

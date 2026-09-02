@@ -9,7 +9,8 @@
   ],
   "client": [
     "ChatGuiMixin",
-    "GameGuiMixin"
+    "GameGuiMixin",
+    "GameRendererMixin"
   ],
   "server": [
   ],

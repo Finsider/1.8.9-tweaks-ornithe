@@ -4,7 +4,7 @@
   "name": "Tweaks",
   "version": "${version}",
   "environment": "*",
-  "description": "Example Mod",
+  "description": "stuf",
   "authors": ["Finside"],
   "mixins": [
     "tweaks.mixins.json"

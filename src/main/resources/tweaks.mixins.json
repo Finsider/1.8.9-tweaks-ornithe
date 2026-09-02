@@ -4,6 +4,8 @@
   "package": "com.example.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
+    "WorldChunkMixin",
+    "WorldMixin"
   ],
   "client": [
     "ChatGuiMixin",

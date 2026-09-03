@@ -1,4 +1,4 @@
-package com.example.mixin;
+package com.fin.tweaks.mixin;
 
 import net.minecraft.client.gui.chat.ChatGui;
 import org.spongepowered.asm.mixin.Mixin;

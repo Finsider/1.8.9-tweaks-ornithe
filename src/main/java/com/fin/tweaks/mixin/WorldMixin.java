@@ -1,4 +1,4 @@
-package com.example.mixin;
+package com.fin.tweaks.mixin;
 
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.world.LightType;

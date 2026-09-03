@@ -1,4 +1,4 @@
-package com.example.mixin;
+package com.fin.tweaks.mixin;
 
 import net.minecraft.client.gui.GameGui;
 import net.minecraft.client.render.TextRenderer;

@@ -3,14 +3,9 @@
   "minVersion": "0.8",
   "package": "com.fin.tweaks.mixin",
   "compatibilityLevel": "JAVA_8",
-  "mixins": [
-    "WorldChunkMixin",
-    "WorldMixin"
-  ],
   "client": [
     "ChatGuiMixin",
-    "GameGuiMixin",
-    "GameRendererMixin"
+    "GameGuiMixin"
   ],
   "server": [
   ],
